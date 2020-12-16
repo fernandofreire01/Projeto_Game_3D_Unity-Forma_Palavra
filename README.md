@@ -23,10 +23,29 @@ O jogo é o resultado do trabalho final da disciplina de Projeto de Engenharia I
 * Ao coletar todas as letras do jogo na ordem correta o jogador receberá uma tela lhe dando os parabéns.
 
 ### RESULTADO
+#### Página inicial:
+<img src="https://github.com/fernandofreire01/Jogo_carro_3D_Unity/blob/main/Imagens/01-Menu%20-%20jogo.png?raw=true" width="60%">
+
+#### Terreno - rampa:
+<img src="https://github.com/fernandofreire01/Jogo_carro_3D_Unity/blob/main/Imagens/02-Terreno%20-%20rampa.png" width="60%">
+
+#### Terreno - túnel:
+<img src="https://github.com/fernandofreire01/Jogo_carro_3D_Unity/blob/main/Imagens/03-Terreno%20-%20t%C3%BAnel.png" width="60%">
+
+#### Terreno - visão áerea 1:
+<img src="https://github.com/fernandofreire01/Jogo_carro_3D_Unity/blob/main/Imagens/07-Terreno%20-%20vis%C3%A3o%20%C3%A1erea.png" width="60%">
+
+#### Terreno - visão áerea 2:
+<img src="https://github.com/fernandofreire01/Jogo_carro_3D_Unity/blob/main/Imagens/04-Terreno%20-%20vis%C3%A3o%20%C3%A1erea%202.png" width="60%">
+
+#### Terreno - visão áerea 3:
+<img src="https://github.com/fernandofreire01/Jogo_carro_3D_Unity/blob/main/Imagens/05-Terreno%20-%20vis%C3%A3o%20%C3%A1erea%203.png" width="60%">
+
+#### Terreno - visão áerea 4:
+<img src="https://github.com/fernandofreire01/Jogo_carro_3D_Unity/blob/main/Imagens/06-Terreno%20-%20vis%C3%A3o%20%C3%A1erea%204.png" width="60%">
 
 
-
-
+A equipe de alunos obtiveram êxito no trabalho final da disciplina. Vale destacar que o projeto é um prótotipo e portanto, ainda faltam ajustes.
 
 
 ### Contribuidores 
