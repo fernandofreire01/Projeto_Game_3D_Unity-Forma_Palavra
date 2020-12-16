@@ -1,0 +1,3473 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     944 MB
+    Driver:   9.17.10.4459
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Fernando\Documento\Universidade\Semestre IV\Trabalho faculdade\Projeto de Engenharia II\Unidade 1\01 - Projeto jogo\Arquivos dos jogos (últimas versões)\Unity - Jogo - Etapa 1 (terreno) - 15-08-2017\Jogo forma palavra - final_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Fernando\Documento\Universidade\Semestre IV\Trabalho faculdade\Projeto de Engenharia II\Unidade 1\01 - Projeto jogo\Arquivos dos jogos (últimas versões)\Unity - Jogo - Etapa 1 (terreno) - 15-08-2017\Jogo forma palavra - final_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Fernando\Documento\Universidade\Semestre IV\Trabalho faculdade\Projeto de Engenharia II\Unidade 1\01 - Projeto jogo\Arquivos dos jogos (últimas versões)\Unity - Jogo - Etapa 1 (terreno) - 15-08-2017\Jogo forma palavra - final_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\Fernando\Documento\Universidade\Semestre IV\Trabalho faculdade\Projeto de Engenharia II\Unidade 1\01 - Projeto jogo\Arquivos dos jogos (últimas versões)\Unity - Jogo - Etapa 1 (terreno) - 15-08-2017\Jogo forma palavra - final_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Fernando\Documento\Universidade\Semestre IV\Trabalho faculdade\Projeto de Engenharia II\Unidade 1\01 - Projeto jogo\Arquivos dos jogos (últimas versões)\Unity - Jogo - Etapa 1 (terreno) - 15-08-2017\Jogo forma palavra - final_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Fernando\Documento\Universidade\Semestre IV\Trabalho faculdade\Projeto de Engenharia II\Unidade 1\01 - Projeto jogo\Arquivos dos jogos (últimas versões)\Unity - Jogo - Etapa 1 (terreno) - 15-08-2017\Jogo forma palavra - final_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Fernando\Documento\Universidade\Semestre IV\Trabalho faculdade\Projeto de Engenharia II\Unidade 1\01 - Projeto jogo\Arquivos dos jogos (últimas versões)\Unity - Jogo - Etapa 1 (terreno) - 15-08-2017\Jogo forma palavra - final_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\Fernando\Documento\Universidade\Semestre IV\Trabalho faculdade\Projeto de Engenharia II\Unidade 1\01 - Projeto jogo\Arquivos dos jogos (últimas versões)\Unity - Jogo - Etapa 1 (terreno) - 15-08-2017\Jogo forma palavra - final_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: F:\Fernando\Documento\Universidade\Semestre IV\Trabalho faculdade\Projeto de Engenharia II\Unidade 1\01 - Projeto jogo\Arquivos dos jogos (últimas versões)\Unity - Jogo - Etapa 1 (terreno) - 15-08-2017\Jogo forma palavra - final_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Fernando\Documento\Universidade\Semestre IV\Trabalho faculdade\Projeto de Engenharia II\Unidade 1\01 - Projeto jogo\Arquivos dos jogos (últimas versões)\Unity - Jogo - Etapa 1 (terreno) - 15-08-2017\Jogo forma palavra - final_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Fernando\Documento\Universidade\Semestre IV\Trabalho faculdade\Projeto de Engenharia II\Unidade 1\01 - Projeto jogo\Arquivos dos jogos (últimas versões)\Unity - Jogo - Etapa 1 (terreno) - 15-08-2017\Jogo forma palavra - final_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Fernando\Documento\Universidade\Semestre IV\Trabalho faculdade\Projeto de Engenharia II\Unidade 1\01 - Projeto jogo\Arquivos dos jogos (últimas versões)\Unity - Jogo - Etapa 1 (terreno) - 15-08-2017\Jogo forma palavra - final_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.711 seconds
+Platform assembly: F:\Fernando\Documento\Universidade\Semestre IV\Trabalho faculdade\Projeto de Engenharia II\Unidade 1\01 - Projeto jogo\Arquivos dos jogos (últimas versões)\Unity - Jogo - Etapa 1 (terreno) - 15-08-2017\Jogo forma palavra - final_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Fernando\Documento\Universidade\Semestre IV\Trabalho faculdade\Projeto de Engenharia II\Unidade 1\01 - Projeto jogo\Arquivos dos jogos (últimas versões)\Unity - Jogo - Etapa 1 (terreno) - 15-08-2017\Jogo forma palavra - final_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 32Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.407700 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2330 -> priority: 1 
+  Thread -> id: 1688 -> priority: 1 
+[Physics.PhysX] ConvexHullBuilder::CreateTrianglesFromPolygons: convex hull has a polygon with less than 3 vertices!
+ 
+(Filename: C:/buildslave/physx/build/Source/PhysXCooking/src/convex/ConvexHullBuilder.cpp Line: 1116)
+
+[Physics.PhysX] Gu::ConvexMesh::loadConvexHull: convex hull init failed! Try to use the PxConvexFlag::eINFLATE_CONVEX flag. (see PxToolkit::createConvexMeshSafe)
+ 
+(Filename: C:/buildslave/physx/build/Source/PhysXCooking/src/convex/ConvexMeshBuilder.cpp Line: 253)
+
+Failed to create Convex Mesh from source mesh "WorldFloor". Source mesh is likely have too many smooth surface regions. Please reduce the surface smoothness of the source mesh. Alternatively turn on Inflate Mesh and increase the Skin Width sufficiently for this mesh.
+ 
+(Filename:  Line: 54)
+
+The referenced script on this Behaviour (Game Object 'F150_2015') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+The tree ArvorePadrão1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree Arbusto must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree Arvore2 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree Arvore3 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+UnloadTime: 11.462900 ms
+[Physics.PhysX] ConvexHullBuilder::CreateTrianglesFromPolygons: convex hull has a polygon with less than 3 vertices!
+ 
+(Filename: C:/buildslave/physx/build/Source/PhysXCooking/src/convex/ConvexHullBuilder.cpp Line: 1116)
+
+[Physics.PhysX] Gu::ConvexMesh::loadConvexHull: convex hull init failed! Try to use the PxConvexFlag::eINFLATE_CONVEX flag. (see PxToolkit::createConvexMeshSafe)
+ 
+(Filename: C:/buildslave/physx/build/Source/PhysXCooking/src/convex/ConvexMeshBuilder.cpp Line: 253)
+
+Failed to create Convex Mesh from source mesh "WorldFloor". Source mesh is likely have too many smooth surface regions. Please reduce the surface smoothness of the source mesh. Alternatively turn on Inflate Mesh and increase the Skin Width sufficiently for this mesh.
+ 
+(Filename:  Line: 54)
+
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2899.
+Total: 4.965400 ms (FindLiveObjects: 0.243200 ms CreateObjectMapping: 0.104300 ms MarkObjects: 0.881200 ms  DeleteObjects: 3.734600 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tempoJogo.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
